@@ -1,4 +1,4 @@
-# practica-dalto
+# repositorio 1 subido
 primer repo creado en github
 
 ## descripcion
